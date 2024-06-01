@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#Othmane Bouziane - Chiguer Mohamed
+
 TODO_FILE="todo.txt"
 DELIM="|"
 
